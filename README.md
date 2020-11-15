@@ -1,4 +1,4 @@
-# Labs_CUDA
+# Labs_CUDA_0
 1. Работа была написана в google colab на Python 3. Ссылка: https://colab.research.google.com/drive/1R88_EZwPKA-ElJd9RKcv22Vfipid0mva?usp=sharing
 2. Реализован алгоритм перемножения матриц на CPU и на GPU с применением CUDA. 
 3. На вход подаются две квадратные матрицы. 
