@@ -21,3 +21,9 @@
 1. Работа была написана в google colab на Python 3. Ссылка: https://colab.research.google.com/drive/1eI7V3FK3ebyzg8rbBdhHAQQT9oEDp5ZE?usp=sharing
 2. Реализована функция добавления шума "соль и перец" на изображение и функции медианной фильтрации на CPU и GPU.
 3. Вычисляется время работы.
+
+
+# Labs_CUDA_billinear_interpolation
+1. Работа была написана в google colab на Python 3. Ссылка: https://colab.research.google.com/drive/1eI7V3FK3ebyzg8rbBdhHAQQT9oEDp5ZE?usp=sharing
+2. Реализована функции для построения билинейной  интерполяции изображения на CPU и GPU.
+3. Вычисляется время работы на CPU и GPU и ускорение.
